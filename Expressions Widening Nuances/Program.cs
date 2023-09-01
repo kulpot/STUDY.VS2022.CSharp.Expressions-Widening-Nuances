@@ -7,6 +7,17 @@ class MainClass
 {       // requires binary knowledge -- sign or unsign
     static void Main()
     {
+        //byte numPeopleInMyFamaily = 10;
+        //byte numPeopleInYourFamily = 3;
+        //byte totalPeople = (byte)(numPeopleInMyFamaily + numPeopleInYourFamily);
+
+        int numPeopleInMyFamaily = 10;
+        int numPeopleInYourFamily = 3;
+        int totalPeople = (numPeopleInMyFamaily + numPeopleInYourFamily);
+
+
+
+
         int i = 5;
         //Console.WriteLine(int.MinValue);    // -2147483648
         //Console.WriteLine(int.MaxValue);    //  2147483647
